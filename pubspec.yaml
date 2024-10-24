@@ -1,0 +1,18 @@
+name: king_helper
+description: "A Flutter package for helper methods and widgets"
+version: 0.0.1
+homepage: https://github.com/king-technologies/king_helper
+
+environment:
+  sdk: ^3.5.3
+  flutter: ">=1.17.0"
+
+dependencies:
+  device_info_plus: ^11.1.0
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter

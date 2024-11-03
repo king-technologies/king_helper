@@ -1,6 +1,6 @@
 name: king_helper
 description: "A Flutter package for helper methods and widgets"
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/king-technologies/king_helper
 
 environment:

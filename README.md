@@ -54,32 +54,12 @@
 2. Import the package.
 3. Call the functions.
 
-## Usage
-
-```dart
-```
- 
-## 🧑🏻 Author
-
-**Rohit Jain**
-
-- 🌌 [Profile](https://github.com/Rohit19060 "Rohit Jain")
-
-- 🏮 [Email](mailto:rohitjain19060@gmail.com?subject=Hi%20from%20King%20Helper "Hi!")
-
-- 🦁 [Website](https://kingtechnologies.dev "Welcome")
-
 <h2 align="center">🤝 Support</h2>
 <h3 align="center">You can expect responsive replies and fast fixes to any issues that appear.</h3>
 
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
 <p align="center">💙 If you like this project, Give it a ⭐ and Share it with friends!</p>
-<p align="center">💰 Donations Links</p>
-<p align="center">
-<a href="https://www.paypal.me/kingrohitJ" title="PayPal"><img src="https://raw.githubusercontent.com/king-technologies/developer-utilities/main/images/paypal.png" alt="PayPal"/></a>
-<a href="https://www.buymeacoffee.com/rohitjain" title="Buy me a Coffee"><img src="https://raw.githubusercontent.com/king-technologies/developer-utilities/main/images/coffee.png" alt="Buy me a Coffee"/></a>
-<a href="https://ko-fi.com/rohitjain" title="Ko-fi"><img src="https://raw.githubusercontent.com/king-technologies/developer-utilities/main/images/kofi.png" alt="Ko-fi"/></a>
 <a href="https://www.patreon.com/KingTechnologies" title="Patreon"><img src="https://raw.githubusercontent.com/king-technologies/developer-utilities/main/images/patreon.png" alt="Patreon"/></a>
 </p>
 

@@ -10,3 +10,7 @@
 ## 0.0.3
 
 * Dependencies updated.
+
+## 0.0.4
+
+* Network methods updated to not use ethernet ip as local ip.

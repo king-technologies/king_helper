@@ -12,7 +12,9 @@ Future<String> getLocalSubnet() async {
 
 Future<String> getLocalIp() async {
   try {
-    final interfaces = await NetworkInterface.list(type: InternetAddressType.IPv4);
+    final interfaces = await NetworkInterface.list(
+      type: InternetAddressType.IPv4,
+    );
     final supportedNetworks = ['wi-fi', 'wlan'];
     for (final interface in interfaces) {
       var supported = false;
